@@ -1,0 +1,16 @@
+.sales-plans-cards {
+    justify-content: center;
+}
+
+.products-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.change-tables-container {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+}
