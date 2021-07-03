@@ -1,4 +1,4 @@
-# MobileFirst-ResponsiveDesign
+# BataBit
 ----------
 ## Platzi Practical Course 🤖
 ----------
